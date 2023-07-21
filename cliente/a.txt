@@ -1,0 +1,3 @@
+C:/Users/edson/OneDrive/Documentos/a.txt
+C:/Users/edson/OneDrive/Documentos/criptografia/
+"C:/Users/edson/OneDrive/Documentos/Seguranca/chave.txt"
